@@ -1,0 +1,5 @@
+MAILTO=mtakacs@gmail.com
+##
+## Run Cronjob once a minute
+##
+* * * * * /usr/local/cronjobs/jsonblob_persister/bin/jsonblob_persister.php http://localhost:8080/endpoint

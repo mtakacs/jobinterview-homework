@@ -1,0 +1,3 @@
+placeholder for phpunit tests.
+
+note: v1 of codebase not structured (eg: classes and functions) for testing.
