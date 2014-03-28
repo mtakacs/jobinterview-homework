@@ -1,5 +1,6 @@
 <?php
 /**
+ * ps: not referenced in Version1
  * MySQL settings 
  *    In a production system, you'd never want to check credentials into source code.
  *    You'd want to provide auth credentials via one of:
